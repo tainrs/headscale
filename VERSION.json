@@ -1,0 +1,13 @@
+{
+  "description": "Stable",
+  "latest": true,
+  "sbranch": "main",
+  "test_amd64": false,
+  "test_arm64": false,
+  "test_url": null,
+  "upstream_digest_amd64": "sha256:eae1f45ce35f21b92ee3f975bd3e78fd7188769e42f9e74480dec98a884b09b5",
+  "upstream_digest_arm64": "",
+  "upstream_image": "docker.io/tainrs/base",
+  "upstream_tag": "alpine",
+  "version": "0.23.0-beta1"
+}
