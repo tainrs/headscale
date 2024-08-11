@@ -2,13 +2,13 @@
   "release": {
     "description": "Stable",
     "hide": false,
-    "last_updated": "2024-08-09T15:02:32.000Z",
-    "last_updated_url": "https://github.com/tainrs/headscale/actions/runs/10321373006",
+    "last_updated": "2024-08-11T13:43:16.000Z",
+    "last_updated_url": "https://github.com/tainrs/headscale/actions/runs/10340230669",
     "latest": true,
     "tags": [
       "release",
       "release-0.23.0-beta1",
-      "release-b471681"
+      "release-448bbe6"
     ]
   }
 }
